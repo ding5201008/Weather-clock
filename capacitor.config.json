@@ -1,0 +1,13 @@
+{
+  "appId": "com.zenclock.weather",
+  "appName": "ZenClock Weather",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

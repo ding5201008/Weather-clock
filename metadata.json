@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ZenClock Weather",
+  "description": "A beautiful, responsive digital clock and weather dashboard designed for full-screen usage. optimized for both landscape (bedside clock) and portrait modes. Powered by Gemini for real-time weather updates.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
